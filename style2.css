@@ -1,0 +1,98 @@
+body{
+    background-color:gainsboro;
+}
+
+h1{
+    text-align: center;
+    font-family: alvi nastaleeq;
+    font-size: 70px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: aliceblue;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 15px;
+    padding: 25px;
+}
+a:link, a:visited{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: alvi nastaleeq;
+    font-size: 30px;
+     color: white;
+}
+a:hover, a:active{
+    background-color: rgb(191, 180, 202);
+    color: aquamarine;
+    padding: 2px 8px;
+    border-radius: 3px;
+}
+nav{
+    background-color: rgb(146, 132, 160);
+    padding: 25px;
+}
+.phli{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction:row-reverse;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+.dosri{
+    border: 2px solid;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(124, 218, 218);
+    color: aliceblue;
+    font-size: 45px;
+    font-family: alvi nastaleeq;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 15px;
+    margin: 15px;
+}
+span{
+    margin: right 50px;
+    font-size: 30px;
+    cursor: pointer;
+    color: white;
+    float: right;
+    display: none;
+}
+@media(max-width:800px){
+    span{
+        display: block;
+        padding-left: 10%;
+    }
+    li{
+        display: block;
+        transition: all;
+    }
+}
+.navbottom{
+     background-color: rgb(146, 132, 160);
+     color: aliceblue;
+     padding: 20px;
+     font-size: 30px;
+     font-family: alvi nastaleeq;
+     direction: rtl;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

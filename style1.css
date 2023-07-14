@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    background-color: rgb(145, 140, 140);
+    color: white;
+    padding: 20px;
+    font-family: alvi nastaleeq;
+    font-size: 50px;
+}
+div{
+background-color:rgb(247, 245, 243);
+float: right;
+font-family: alvi nastaleeq;
+width: 20%;
+direction: rtl;
+font-size: 20px;
+padding: 20px;
+border: 2px solid;
+}
+input{
+    font-family: alvi nastaleeq;
+    width: 300px;
+    cursor:auto;
+    font-size: 18px;
+}
+.submit{
+    width: 100px;
+    margin-left: 737px;
+    cursor: pointer;
+    margin-top: 5px;
+    border: 2px solid;
+    background-color: black;
+    color: aliceblue;
+}
+body{
+    background-color: rgba(250, 188, 188, 0.151);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbottom{
+    background-color: rgb(146, 132, 160);
+    color: aliceblue;
+    padding: 20px;
+    font-size: 30px;
+    font-family: alvi nastaleeq;
+    direction: rtl;
+}
+a:link, a:visited{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: alvi nastaleeq;
+    font-size: 30px;
+     color: white;
+}
+a:hover, a:active{
+    background-color: rgb(146, 132, 160);
+    color: aquamarine;
+    padding: 10px;
+    border-radius: 3px;
+}

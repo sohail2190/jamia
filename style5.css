@@ -1,0 +1,53 @@
+h1{
+    font-size: 50px;
+    font-family: alvi nastaleeq;
+    text-align: center;
+    background-color: rgb(115, 238, 197);
+    color: azure;
+}
+p{
+    font-family: alvi nastaleeq;
+    direction: rtl;
+    font-size: 30px;
+    margin-right: 70px;
+}
+li{
+    font-family: alvi nastaleeq;
+    direction: rtl;
+    text-align: right;
+    font-size: 25px;
+    margin-right: 130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.navbottom{
+    background-color: rgb(146, 132, 160);
+    color: aliceblue;
+    padding: 20px;
+    font-size: 30px;
+    font-family: alvi nastaleeq;
+    direction: rtl;
+}
+a:link, a:visited{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: alvi nastaleeq;
+    font-size: 30px;
+     color: white;
+}
+a:hover, a:active{
+    background-color: rgb(146, 132, 160);
+    color: aquamarine;
+    padding: 10px;
+    border-radius: 3px;
+}
